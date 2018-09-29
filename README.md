@@ -1,0 +1,2 @@
+# appupdate
+ionic app update
